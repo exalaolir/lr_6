@@ -8,5 +8,5 @@ export default defineConfig({
   build:{
     sourcemap: true
   },
-  base:"/calc/"
+  base:"/lr_6/"
 });
